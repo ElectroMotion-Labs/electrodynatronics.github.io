@@ -3,8 +3,7 @@ layout: page
 permalink: /teaching/
 title: readme
 description: Materials for courses you taught. Replace this text with your description.
-nav: true
-nav_order: 5
+nav: flase
 ---
 
 # HONDA HARU Motor Module Control Program C++ and Python (External Version)

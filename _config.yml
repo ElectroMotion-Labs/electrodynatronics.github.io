@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: <title> GeeksforGeeks icon </title> <img src="/assets/img/KTH_Royal_Institute_of_Technology_logo.svg.png" title="Electrodynatronics" height="500"> # the website title (if blank, full name will be used instead)
+title: GeeksforGeeks icon <img src="/assets/img/KTH_Royal_Institute_of_Technology_logo.svg.png" title="Electrodynatronics" height="500" /img> # the website title (if blank, full name will be used instead)
 first_name: You
 middle_name: R.
 last_name: Name

@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Hello {<img src="/assets/img/KTH_Royal_Institute_of_Technology_logo.svg.png" title="Electrodynatronics" height="500">} # the website title (if blank, full name will be used instead)
+title: Hello # the website title (if blank, full name will be used instead)
 first_name: You
 middle_name: R.
 last_name: Name
@@ -17,6 +17,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: KTH_Royal_Institute_of_Technology_logo.svg.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+logo: <img src="/assets/img/KTH_Royal_Institute_of_Technology_logo.svg.png" title="Electrodynatronics" height="500">
 
 url: https://electrodynatronics.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/

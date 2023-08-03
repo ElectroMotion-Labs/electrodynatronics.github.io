@@ -1119,7 +1119,7 @@
     let h1 = title.querySelector('h1');
     if (!h1) {
       h1 = dom.createElement('h1');
-      h1.textContent = data.title;
+      h1.textContent = data.actualtitle;
       title.insertBefore(h1, title.firstChild);
     }
 

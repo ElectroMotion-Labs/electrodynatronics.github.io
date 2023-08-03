@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-actualtitle: <img src="https://electromotion-labs.github.io/electrodynatronics.github.io/assets/img/electromotion-labs.svg", title="ElectroMotion Labs"> # the website title (if blank, full name will be used instead)
-navbartitle: <img src="https://electromotion-labs.github.io/electrodynatronics.github.io/assets/img/electromotion-labs.svg", height="20">
+actualtitle: <img src="https://electromotion-labs.github.io/assets/img/electromotion-labs.svg", title="ElectroMotion Labs"> # the website title (if blank, full name will be used instead)
+navbartitle: <img src="https://electromotion-labs.github.io/assets/img/electromotion-labs.svg", height="20">
 title: ElectroMotion Labs
 first_name: You
 middle_name: R.
@@ -21,8 +21,8 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: electromotion-labs_mobile.svg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 # logo: <img src="/assets/img/KTH_Royal_Institute_of_Technology_logo.svg.png" title="Electrodynatronics" height="500">
 
-url: https://electromotion-labs.github.io # the base hostname & protocol for your site
-baseurl: /electrodynatronics.github.io/ # the subpath of your site, e.g. /blog/
+url: https://electromotion-labs.github.io/ # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 

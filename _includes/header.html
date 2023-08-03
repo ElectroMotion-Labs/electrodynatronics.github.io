@@ -17,7 +17,7 @@
                 {{- site.last_name -}}
               {%- endif -%}
             {%- else -%}
-              {{- site.title -}}
+              {{- site.actualtitle -}}
             {%- endif -%}
           </a>
           {%- elsif site.enable_navbar_social -%}
@@ -39,7 +39,7 @@
 
               {%- for page in site.pages -%}
                 {% if page.permalink == '/' %}
-                  {% assign about_title = page.title %}
+                  {% assign about_title = page.actualtitle %}
                 {% endif %}
               {% endfor %}
 

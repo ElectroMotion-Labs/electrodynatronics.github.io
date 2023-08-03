@@ -1119,7 +1119,7 @@
     let h1 = title.querySelector('h1');
     if (!h1) {
       h1 = dom.createElement('h1');
-      h1.textContent = data.actualtitle;
+      h1.textContent = data.title;
       title.insertBefore(h1, title.firstChild);
     }
 
@@ -12289,9 +12289,9 @@
     <link href="/rss.xml" rel="alternate" type="application/rss+xml" title="Articles from Distill">
   `);
 
-    if (data.actualtitle) {
+    if (data.title) {
       appendHead(`
-    <title>${escapeHtml_1(data.actualtitle)}</title>
+    <title>${escapeHtml_1(data.title)}</title>
     `);
     }
 

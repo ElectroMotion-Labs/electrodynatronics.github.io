@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: ElectroMotion Labs # the website title (if blank, full name will be used instead)
-actualtitle: <img src="https://electromotion-labs.github.io/electrodynatronics.github.io/assets/img/electromotion-labs.svg", height="20">
+title: <img src="https://electromotion-labs.github.io/electrodynatronics.github.io/assets/img/electromotion-labs.svg", height="20"> # the website title (if blank, full name will be used instead)
+actualtitle: ElectroMotion Labs
 first_name: You
 middle_name: R.
 last_name: Name

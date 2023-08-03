@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-actualtitle: <img src="https://electromotion-labs.github.io/assets/img/electromotion-labs.svg", title="ElectroMotion Labs", style="height:10em; width:auto;"> # the website title (if blank, full name will be used instead)
+actualtitle: <img src="https://electromotion-labs.github.io/assets/img/electromotion-labs.svg", title="ElectroMotion Labs", style="height:1em; width:auto;"> # the website title (if blank, full name will be used instead)
 navbartitle: <img src="https://electromotion-labs.github.io/assets/img/electromotion-labs.svg", style="height:1em; width:auto;">
 title: ElectroMotion Labs
 first_name: You

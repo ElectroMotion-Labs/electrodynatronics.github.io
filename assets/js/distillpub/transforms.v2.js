@@ -12289,9 +12289,9 @@
     <link href="/rss.xml" rel="alternate" type="application/rss+xml" title="Articles from Distill">
   `);
 
-    if (data.title) {
+    if (data.actualtitle) {
       appendHead(`
-    <title>${escapeHtml_1(data.title)}</title>
+    <title>${escapeHtml_1(data.actualtitle)}</title>
     `);
     }
 

@@ -12,6 +12,7 @@ social: false  # includes social icons at the bottom of the page
 {% include figure.html path="assets/img/elecronics-objective.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
 {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

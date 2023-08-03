@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://electromotion-labs.github.io/electrodynatronics.github.io//sitemap.xml
+Sitemap: https://electromotion-labs.github.io//sitemap.xml
